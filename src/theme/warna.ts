@@ -1,0 +1,15 @@
+export const warna = {
+  latar: '#F4F6FA',
+  permukaan: '#FFFFFF',
+  tinta: '#0F172A',
+  teks: '#475569',
+  redup: '#7B8AA3',
+  garis: '#E6EBF3',
+  biru: '#1D4ED8',
+  biruTua: '#0C2A63',
+  biruMuda: '#EAF0FF',
+  hijau: '#15803D',
+  hijauMuda: '#E6F6EC',
+  oranye: '#C2410C',
+  oranyeMuda: '#FFF0E3',
+};
